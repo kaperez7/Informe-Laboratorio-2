@@ -37,26 +37,25 @@ El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/172309309-2a8a5ab5-6607-4a63-b940-bbc79b831a7c.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+![image](https://user-images.githubusercontent.com/105570939/172309352-5b8d7d47-2c4f-4ab2-8d19-44103c669983.png)
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+![image](https://user-images.githubusercontent.com/105570939/172309406-1fd87854-652a-42fe-ae16-d46b1391b84f.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![WhatsApp Image 2022-06-06 at 11 56 06 PM](https://user-images.githubusercontent.com/105570939/172309859-16d335c6-9669-4d6a-a18e-53ff8766bc6a.jpeg)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+![image](https://user-images.githubusercontent.com/105570939/172309471-e74166d6-3612-477e-abec-42c24ca1c38c.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
-
+![image](https://user-images.githubusercontent.com/105570939/172310080-1ddae17f-9de4-4997-b39f-72376f53f7be.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/105570939/172310168-f849f9a3-7083-4b1b-8f6f-f8fcd2aaa9bc.png)
+
+![image](https://user-images.githubusercontent.com/105570939/172313240-8a1fed3b-3c6d-4a90-85f0-3a066ca8d189.png)
+
+Al hacer los calculos del error se visualiza un error considerable respecto al valor calculado y el valor medido con el circuito en fisico, sin embargo respecto a los valores medidos con el simulador no existe error.
 
 5. VIDEO
 

@@ -1,9 +1,14 @@
 # InformeLaboratorio
 
+**TEMA: Analisis de Mallas**
 
 1. OBJETIVOS
 
-Comprobar experimentalmente el Análisis de Mallas.
+Comprobar experimentalmente el Análisis de Mallas, mediante el modelado y ensamblaje de un circuito por medio del software tinkercad, para conocer el error existente entre las mediciones obtenidas mediante el modelado, el armado y el teorico.
+
+* Definir el metodo de mallas.
+* Comparar los resultados experimentales y los resultados obtenidos teoricamente.
+* 
 
 2. MARCO TEÓRICO 
 
@@ -44,9 +49,7 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 7. BIBLIOGRAFÍA
 
-González, A. G. (2021, 16 marzo). Ley de los voltajes de Kirchhoff: Método de Mallas. Panama Hitek. Recuperado 1 de junio de 2022, de http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:%7E:text=%C2%BFQu%C3%A9%20es%20una%20malla%3F,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
-
-El método de la corriente de malla (artículo). (s. f.). Khan Academy. Recuperado 31 de mayo de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method#:%7E:text=El%20m%C3%A9todo%20de%20corriente%20de,de%20las%20manecillas%20del%20reloj).
+Emplear normas APA para el informe e IEEE para el artículo
 
 
 RUBRICA

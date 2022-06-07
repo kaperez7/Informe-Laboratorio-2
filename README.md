@@ -4,15 +4,11 @@
 
 1. OBJETIVOS
 
-OBJETIVO GENERAL
+Comprobar experimentalmente el Análisis de Mallas, mediante el modelado y ensamblaje de un circuito por medio del software tinkercad, para conocer el error existente entre las mediciones obtenidas mediante el modelado, el armado y el teorico.
 
-Comprobar experimentalmente el Análisis de Mallas, mediante el modelado y ensamblaje de un circuito por medio del software TinkerCad, para conocer el error existente entre las mediciones obtenidas mediante el modelado, el armado y el teórico.
-
-OBJETIVOS ESPECÍFICOS
-
--Definir y comprender el método de mallas.
--Analizar el uso de las leyes de Kirchhoff en el método de mallas.
--Comparar los resultados experimentales y los resultados obtenidos teóricamente.
+* Definir el metodo de mallas.
+* Analizar el uso de las leyes de Kirchhoff en el metodo de mallas.
+* Comparar los resultados experimentales y los resultados obtenidos teoricamente.
 
 2. MARCO TEÓRICO 
 
@@ -48,7 +44,9 @@ https://youtu.be/nlMq1rF0RWM
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Una malla es un circuito cerrado internamente y a cada malla se le asigna una corriente total la misma que se la encuentra mediante la aplicacion de las leyes de Kirchhoff y las leyes de Ohm.
+* Para calcular la corriente de cada malla se utiliza la ley de voltajes de kirchhoff que nos dice que la sumatoria de todos los valtajes es igual a cero, pero como necesitamos la corriente aplicamos la ley de Ohm I=V*R.
+* 
 
 
 7. BIBLIOGRAFÍA

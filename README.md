@@ -4,11 +4,15 @@
 
 1. OBJETIVOS
 
+OBJETIVO GENERAL
+
 Comprobar experimentalmente el Análisis de Mallas, mediante el modelado y ensamblaje de un circuito por medio del software tinkercad, para conocer el error existente entre las mediciones obtenidas mediante el modelado, el armado y el teorico.
 
-* Definir el metodo de mallas.
-* Analizar el uso de las leyes de Kirchhoff en el metodo de mallas.
-* Comparar los resultados experimentales y los resultados obtenidos teoricamente.
+OBJETIVOS ESPECÍFICOS
+
+-Definir y comprender el metodo de mallas.
+-Analizar el uso de las leyes de Kirchhoff en el metodo de mallas.
+-Comparar los resultados experimentales y los resultados obtenidos teoricamente.
 
 2. MARCO TEÓRICO 
 

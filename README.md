@@ -46,8 +46,7 @@ https://youtu.be/nlMq1rF0RWM
 
 * Una malla es un circuito cerrado internamente y a cada malla se le asigna una corriente total la misma que se la encuentra mediante la aplicacion de las leyes de Kirchhoff y las leyes de Ohm.
 * Para calcular la corriente de cada malla se utiliza la ley de voltajes de kirchhoff que nos dice que la sumatoria de todos los valtajes es igual a cero, pero como necesitamos la corriente aplicamos la ley de Ohm I=V*R.
-* 
-
+* Para comparar los resultados se realizo el calculo de error entre los obtenidos experimentalmente y el teorico y se observo que el error en las corrientes es diferente. lo cual es normal ya que los resultados obtenidos mediante un calculo siempre va hacer aproximado y solo nos brinda una ayuda al momento de querer armar un circuito.
 
 7. BIBLIOGRAFÍA
 

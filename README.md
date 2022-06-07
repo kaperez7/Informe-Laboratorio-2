@@ -1,6 +1,10 @@
 # InformeLaboratorio
 
 **TEMA: Analisis de Mallas**
+Integrantes:
+* Haro Adriana.
+* Kevin Pérez.
+* Christopher Columba.
 
 1. OBJETIVOS
 
